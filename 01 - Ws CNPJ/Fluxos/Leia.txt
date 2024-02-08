@@ -1,0 +1,27 @@
+Fluxos para utilização de Webservice de dados do CNPJ
+
+Webservice
+
+ CNPJJá - https://cnpja.com/
+
+
+Obs.: Em breve vamos disponíbilizar outros webservices
+
+Formulários e Dados:
+* ws_CNAE
+* ws_empresa
+* ws_municipio
+
+Fluxos disponíveis:
+* CNPJ Ja - CNPJ Retornado Consulta
+* CNPJ Ja - Retorna Link e Key Web Service
+* CNPJ Ja - Retorna Valores Contatos
+* CNPJ Ja - Retorna Valores Sintegra
+
+
+Obs.: No FRZ retorna os dados dos formulários, deve ser exportados
+
+Sugestão e correções enviar para o e-mail jaimeabreujr@amasoftware.com.br
+
+29/08/2023 - Versão 1.0.0 - Atualização
+

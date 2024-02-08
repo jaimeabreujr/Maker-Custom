@@ -1,0 +1,24 @@
+Funções iniciais, utilizadas em quase todos sistema, como  retirar CPF, validação de duplicidade e etc
+
+Funções disponíveis:
+* Generico - Definir Variaveis de Sessão (Modo Cliente)
+* Generico - Mensagem Depois de Salvar
+* Generico - Obter Variaveis de Sessão (Modo Cliente)
+* Generico - Remover Diversas Variaveis de Sessao
+* Generico - Remover Variavel de Sessao (Modo Cliente)
+* Generico - Retornar CPF ou CNPJ Sem Pontuacap
+* Generico - Retorna Id Usuario Logado
+* Generico - Validacao de Datas sem Retorno 
+* Generico - Verificar Alteracoes Ilegais
+* Generico - Verificar Alteracoes Ilegais Sem Msg
+* Generico - Verificar Alteracoes Ilegais de CPF e CNPJ 
+* Generico - Verificar Alteracoes Ilegais de CPF e CNPJ Sem Msg
+* Generico - Mensagem Depois de Salvar
+* Generico - Validacao Duplicidade Antes de Inserir
+
+Obs.: No FRZ existe exemplos de uso.
+
+Sugestão e correções enviar para o e-mail jaimeabreujr@amasoftware.com.br
+
+07/02/2024 - Versão 1.0.0 - Atualização
+

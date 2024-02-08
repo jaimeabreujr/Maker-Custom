@@ -1,0 +1,16 @@
+Funções para mostra conteúdo do campo tipo password e altera o icone, ideal para adicionar a funcionalidade de visualizar senha.
+
+Funções disponíveis:
+
+* HTML - Conteúdo de Senha - Amasoftware
+* HTML - Conteúdo de Senha e Icone - Amasoftware
+
+Obs.: 
+Algumas funções utiliza icones do font Awesome, nessa função segue a biblioteca versão 5.15.4, nativa do Maker, a classe "fas" já é padrão, então só nescessário coloca o nome da classe do ícone, exemplo, "fa-eye"
+
+https://fontawesome.com/
+
+Sugestão e correções enviar para o e-mail jaimeabreujr@amasoftware.com.br
+
+07/02/2024 - Versão 1.0.0 - Atualização
+

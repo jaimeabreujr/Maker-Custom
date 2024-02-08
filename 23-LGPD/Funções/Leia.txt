@@ -1,0 +1,14 @@
+Funções que mascará E-mail, Telefone e CPF.
+
+Funções disponíveis:
+
+* LGPD - Mascarar Endereço de E-mail
+* LGPD - Mascarar CPF
+* LGPD - Mascara Telefone
+
+Obs.: No FRZ existe exemplos de uso.
+
+Sugestão e correções enviar para o e-mail jaimeabreujr@amasoftware.com.br
+
+07/02/2024 - Versão 1.0.0 - Atualização
+

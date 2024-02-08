@@ -1,0 +1,29 @@
+Fluxos genérico para diversas utilidades
+
+Autor: Amasoftware - www.amasoftware.com.br
+E-mail: helpdesk@amasoftware.com.br
+
+=====================================================================
+FRZ - 01 - Amasoftware - Adicionando Classes no Input da Cx Texto
+
+Fluxos disponíveis:
+* Generico - Caixa de Texto - Inserindo classes no input da caixa de texto
+* Login - Validando Email e Senha ao Sair (Exemplo)
+
+Formulário
+* Abas - Formulário de Login - Exemplo
+
+
+Obs.: 
+
+
+Sugestão e correções enviar para o e-mail jaimeabreujr@amasoftware.com.br
+
+- 27/11/2023 - Versão 1.0.0 - Atualização
+
+
+=====================================================================
+
+
+
+

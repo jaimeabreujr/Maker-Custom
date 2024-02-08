@@ -1,0 +1,34 @@
+Fluxos genérico exemplos para utilização de Webservice de dados CEP e dados de município do IBGE. No IBGE tem um exemplo de obter os Municípios da API do IBGE e com opção de buscar em banco local.
+
+Autor: Amasoftware - www.amasoftware.com.br
+E-mail: helpdesk@amasoftware.com.br
+
+
+Webservice
+* Via CEP - https://viacep.com.br/
+* IBGE GOV - https://servicodados.ibge.gov.br/api/docs/malhas?versao=3
+
+
+Fluxos disponíveis:
+* Amasoftware - Via CEP - Ao Clicar Buscar
+* Amasoftware - Via CEP - Ao Sair do CEP
+* Amasoftware - Via CEP - Consultar e atribuir valores
+* Amasoftware - Ws IBGE - Ao Sair UF e Preencher Cidade
+* Amasoftware - Ws IBGE - Retorna Lista de Municipio pelo UF
+* Amasoftware - Ws IBGE - Retorna Lista de Municipio pelo UF (BD) 
+* Amasoftware - Ws IBGE - Salva municipio
+
+
+Obs.: 
+- O Fluxo do CEP "Amasoftware - Via CEP - Ao Sair do CEP" depende de um fluxo do IBGE, porém, senão quiser utilizar o do IBGE só fazer a alteração
+- Fluxo IBGE "Amasoftware - Ws IBGE - Salva municipio" , utiliza a tabela ws_municipio (tabela geral para os fluxos genéricos) 
+
+
+
+Sugestão e correções enviar para o e-mail jaimeabreujr@amasoftware.com.br
+
+- 27/11/2023 - Versão 1.0.0 - Atualização
+
+
+
+

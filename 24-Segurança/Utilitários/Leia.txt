@@ -1,0 +1,4 @@
+07/02/2024 - Atualização
+==========
+Corrigi um erro de segurança que permitia a execução de scripts no navegador.
+Obs.: Coloque a pasta "errors" dentro da pasta "Maker.commons
