@@ -26,8 +26,8 @@ Contribuições são sempre bem-vindas! Se você tem uma função ou fluxo custo
 Apenas por e-mail: helpdesk@amasoftware.com.br
 
 ## Apoio
-Grupo de WhatsApp Maker EasyCodar (Ao Entrar se apresente) - https://chat.whatsapp.com/JrTpaxXgIEzHoyI9U3cHZ0 
-Empresa apoiadora: Amasoftware- https://www.amasoftware.com.br/
+. Grupo de WhatsApp Maker EasyCodar (Ao Entrar se apresente) - https://chat.whatsapp.com/JrTpaxXgIEzHoyI9U3cHZ0 
+. Empresa apoiadora: Amasoftware- https://www.amasoftware.com.br/
 
 ## Serviços
 . [Consultoria em Maker No-Code](https://api.whatsapp.com/send?phone=557132194787)
