@@ -3,7 +3,7 @@
 ## Patrocinador: 📌
 <img src="https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/logo_da_Amasoftware.png">
 
-ℹ️ ## Sobre o Projeto
+## Sobre o Projeto ℹ️ 
 Maker Custom é um repositório dedicado a funções e fluxos customizados para o Maker no-code, destinado a desenvolvedores que desejam ampliar e personalizar suas experiências com esta ferramenta.
 
 ## Como Usar 💡
@@ -13,7 +13,7 @@ Para usar uma função do Maker Custom, siga estas etapas:
 3. Escolha a função ou fluxos que deseja utilizar.
 4. Siga as instruções específicas para cada função, disponíveis na documentação da função.
 
-📧 ## Suporte/Sugestões/Dúvidas
+## Suporte/Sugestões/Dúvidas 📧 
 Apenas por e-mail: helpdesk@amasoftware.com.br
 
 ## Apoio 💪 
