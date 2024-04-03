@@ -1,6 +1,6 @@
 # Maker Custom
 
-<img src="[https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/Pix_14.54.29_86d4b38f.jpg](https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/logo_da_Amasoftware.png)">
+<img src="https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/logo_da_Amasoftware.png">
 
 ## Sobre o Projeto
  Maker Custom é um repositório dedicado a funções e fluxos customizados para o Maker 5, destinado a desenvolvedores que desejam ampliar e personalizar suas experiências com esta ferramenta.
