@@ -6,7 +6,7 @@
 ℹ️ ## Sobre o Projeto
 Maker Custom é um repositório dedicado a funções e fluxos customizados para o Maker no-code, destinado a desenvolvedores que desejam ampliar e personalizar suas experiências com esta ferramenta.
 
-💡## Como Usar
+## Como Usar 💡
 Para usar uma função do Maker Custom, siga estas etapas:
 1. Clone o repositório para o seu ambiente local.
 2. Importe o FRZ
@@ -16,19 +16,19 @@ Para usar uma função do Maker Custom, siga estas etapas:
 📧 ## Suporte/Sugestões/Dúvidas
 Apenas por e-mail: helpdesk@amasoftware.com.br
 
-💪 ## Apoio 
+## Apoio 💪 
 * Grupo de WhatsApp Maker EasyCodar (Ao Entrar se apresente) - https://chat.whatsapp.com/JrTpaxXgIEzHoyI9U3cHZ0 
 * Empresa apoiadora: Amasoftware- https://www.amasoftware.com.br/
 
-💻 ## Serviços 
+## Serviços 💻 
 * [Consultoria em Maker No-Code](https://api.whatsapp.com/send?phone=557132194787)
 
-🎓 ## Indicações de curso e vídeos tutorial do Maker No-Code 
+## Indicações de curso e vídeos tutorial do Maker No-Code 🎓 
 * [Maker 5 NoCode: Desenvolvendo PDV Multiempresa](https://hotmart.com/pt-br/marketplace/produtos/maker-nocode-5-crie-sistema-de-vendas/V85582479V)
 * [Oficial Softwell](https://suporte.softwell.com.br/eadmaker/)
 * [Youtube EasyCodar](https://www.youtube.com/results?search_query=easy+codar)
 
-🎯 ## Contribuindo com código ou ideias 
+## Contribuindo com código ou ideias 🎯 
 
 Contribuições são sempre bem-vindas! Se você tem uma função ou fluxo customizado que gostaria de compartilhar, por favor:
 1. Faça um fork do repositório.
@@ -42,5 +42,5 @@ Seu apoio, de qualquer forma, faz uma diferença significativa e é muito apreci
 
 <img src="https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/Pix_14.54.29_86d4b38f.jpg">
 
-## Licença
+## Licença ©️
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes
