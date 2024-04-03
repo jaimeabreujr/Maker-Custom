@@ -3,7 +3,7 @@
 📌Patrocinador:
 <img src="https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/logo_da_Amasoftware.png">
 
-:information_source: ## Sobre o Projeto
+ℹ️ ## Sobre o Projeto
 Maker Custom é um repositório dedicado a funções e fluxos customizados para o Maker no-code, destinado a desenvolvedores que desejam ampliar e personalizar suas experiências com esta ferramenta.
 
 💡## Como Usar
