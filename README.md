@@ -20,3 +20,27 @@ Contribuições são sempre bem-vindas! Se você tem uma função ou fluxo custo
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes
+
+## Suporte/Sugestões/Dúvidas
+Apenas por e-mail: helpdesk@amasoftware.com.br
+
+##Apoio
+Grupo de WhatsApp Maker EasyCodar (Ao Entrar se apresente) - https://chat.whatsapp.com/JrTpaxXgIEzHoyI9U3cHZ0 
+Empresa apoiadora: Amasoftware- https://www.amasoftware.com.br/
+
+##Serviços
+. [Consultoria em Maker No-Code](https://api.whatsapp.com/send?phone=557132194787)
+
+##Indicações de curso e vídeos tutorial do Maker No-Code
+. [Maker 5 NoCode: Desenvolvendo PDV Multiempresa](https://hotmart.com/pt-br/marketplace/produtos/maker-nocode-5-crie-sistema-de-vendas/V85582479V)
+. [Oficial Softwell](https://suporte.softwell.com.br/eadmaker/)
+. [Youtube EasyCodar](https://www.youtube.com/results?search_query=easy+codar)
+
+##Doação
+
+. Gostou do projeto. Faz uma doação
+
+<img src="/assets/img/arquivo.gif">
+
+
+
