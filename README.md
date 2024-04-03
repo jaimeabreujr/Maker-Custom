@@ -8,7 +8,7 @@ Maker Custom é um repositório dedicado a funções e fluxos customizados para 
 ## Como Usar
 Para usar uma função do Maker Custom, siga estas etapas:
 1. Clone o repositório para o seu ambiente local.
-2.Importe o FRZ
+2. Importe o FRZ
 3. Escolha a função ou fluxos que deseja utilizar.
 4. Siga as instruções específicas para cada função, disponíveis na documentação da função.
 
@@ -26,16 +26,16 @@ Contribuições são sempre bem-vindas! Se você tem uma função ou fluxo custo
 Apenas por e-mail: helpdesk@amasoftware.com.br
 
 ## Apoio
-. Grupo de WhatsApp Maker EasyCodar (Ao Entrar se apresente) - https://chat.whatsapp.com/JrTpaxXgIEzHoyI9U3cHZ0 
-. Empresa apoiadora: Amasoftware- https://www.amasoftware.com.br/
+* Grupo de WhatsApp Maker EasyCodar (Ao Entrar se apresente) - https://chat.whatsapp.com/JrTpaxXgIEzHoyI9U3cHZ0 
+* Empresa apoiadora: Amasoftware- https://www.amasoftware.com.br/
 
 ## Serviços
-. [Consultoria em Maker No-Code](https://api.whatsapp.com/send?phone=557132194787)
+* [Consultoria em Maker No-Code](https://api.whatsapp.com/send?phone=557132194787)
 
 ## Indicações de curso e vídeos tutorial do Maker No-Code
-. [Maker 5 NoCode: Desenvolvendo PDV Multiempresa](https://hotmart.com/pt-br/marketplace/produtos/maker-nocode-5-crie-sistema-de-vendas/V85582479V)
-. [Oficial Softwell](https://suporte.softwell.com.br/eadmaker/)
-. [Youtube EasyCodar](https://www.youtube.com/results?search_query=easy+codar)
+* [Maker 5 NoCode: Desenvolvendo PDV Multiempresa](https://hotmart.com/pt-br/marketplace/produtos/maker-nocode-5-crie-sistema-de-vendas/V85582479V)
+* [Oficial Softwell](https://suporte.softwell.com.br/eadmaker/)
+* [Youtube EasyCodar](https://www.youtube.com/results?search_query=easy+codar)
 
 ## Contribuindo com código ou ideias
 Também são bem-vindas contribuições de código e ideias inovadoras. Se você estiver interessado em contribuir dessa maneira, leia nossas diretrizes de contribuição para obter mais informações sobre como começar.
