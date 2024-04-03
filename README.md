@@ -1,5 +1,7 @@
 # Maker Custom
 
+<img src="[https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/Pix_14.54.29_86d4b38f.jpg](https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/logo_da_Amasoftware.png)">
+
 ## Sobre o Projeto
  Maker Custom é um repositório dedicado a funções e fluxos customizados para o Maker 5, destinado a desenvolvedores que desejam ampliar e personalizar suas experiências com esta ferramenta.
 
@@ -18,8 +20,7 @@ Contribuições são sempre bem-vindas! Se você tem uma função ou fluxo custo
 4. Faça push para o branch (`git push origin feature/MinhaNovaFuncao`).
 5. Abra um Pull Request."
 
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes
+
 
 ## Suporte/Sugestões/Dúvidas
 Apenas por e-mail: helpdesk@amasoftware.com.br
@@ -36,11 +37,14 @@ Empresa apoiadora: Amasoftware- https://www.amasoftware.com.br/
 . [Oficial Softwell](https://suporte.softwell.com.br/eadmaker/)
 . [Youtube EasyCodar](https://www.youtube.com/results?search_query=easy+codar)
 
-##Doação
+##Contribuindo com código ou ideias
+Também são bem-vindas contribuições de código e ideias inovadoras. Se você estiver interessado em contribuir dessa maneira, leia nossas diretrizes de contribuição para obter mais informações sobre como começar.
 
-. Gostou do projeto. Faz uma doação
+Seu apoio, de qualquer forma, faz uma diferença significativa e é muito apreciado. Obrigado por fazer parte da comunidade do Maker Custom!
 
-<img src="/assets/img/arquivo.gif">
+<img src="https://github.com/jaimeabreujr/Maker-Customer/blob/main/assets/Pix_14.54.29_86d4b38f.jpg">
 
+## Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes
 
 
